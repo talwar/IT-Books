@@ -1,5 +1,5 @@
 # IT-Books
-IT, Programming &amp; Computer science books
+**IT, Programming &amp; Computer science books**
 
 ## C# and ASP.NET
 
@@ -28,6 +28,13 @@ IT, Programming &amp; Computer science books
 
 ## JavaScript
 
+* ES6
+
+- Presentations - ES6
+- Learning ECMAScript 6 - Narayan Prusty
+- Understanding ECMAScript 6 - Nicholas C. Zakas
+
+* You Don't Know JS - Kyle Simpson
 
 
 ## Programming
