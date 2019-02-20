@@ -29,13 +29,10 @@
 ## JavaScript
 
 * ES6
-
-- Presentations - ES6
-- Learning ECMAScript 6 - Narayan Prusty
-- Understanding ECMAScript 6 - Nicholas C. Zakas
-
+    - Presentations - ES6
+    - Learning ECMAScript 6 - Narayan Prusty
+    - Understanding ECMAScript 6 - Nicholas C. Zakas
 * You Don't Know JS - Kyle Simpson
-
 
 ## Programming
 
