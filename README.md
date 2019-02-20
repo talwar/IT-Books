@@ -28,11 +28,27 @@
 
 ## JavaScript
 
+* Design Patterns
+    - Learning Javascript Design Patterns - Addy Osmani
+    - Pro JavaScript Design Patterns - Ross Harmes and Dustin Diaz	
 * ES6
     - Presentations - ES6
     - Learning ECMAScript 6 - Narayan Prusty
     - Understanding ECMAScript 6 - Nicholas C. Zakas
+	- You Don’t Know JS ES6 and Beyond - Kyle Simpson
 * You Don't Know JS - Kyle Simpson
+* Beautiful JavaScript - Anton Kovalyov
+* Effective JavaScript - David Herman
+* Instant jqGrid - Gabriel Manricks
+* JavaScript Application Design - Nicolas Bevacqua
+* JavaScript Recipes_ A Problem-Solution Approach - Russ Ferguson and Keith Cirkel
+* JavaScript The Good Parts - Douglas Crockford
+* Learning JavaScript, 3rd Edition - Ethan Brown
+* Mastering JavaScript - Ved Antani
+* Mastering JavaScript Object-Oriented Programming - Andrea Chiarelli
+* Modern JavaScript Applications - Narayan Prusty
+* Secrets of the JavaScript Ninja, 2nd Edition - John Resig, Bear Bibeault and Josip Maras
+* The Principles of Object-Oriented JavaScript - Nicholas C. Zakas
 
 ## Programming
 
