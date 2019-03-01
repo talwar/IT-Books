@@ -1,5 +1,5 @@
-# IT-Books
-**IT, Programming &amp; Computer science books**
+# IT Books and Resources
+**IT, Programming &amp; Computer science books and resources**
 
 ## Algorithms
 
@@ -77,6 +77,14 @@
 * [Secrets of the JavaScript Ninja, 2nd Edition - John Resig, Bear Bibeault and Josip Maras](https://github.com/petyakostova/IT-Books/blob/master/JavaScript/Secrets%20of%20the%20JavaScript%20Ninja%2C%202nd%20Edition%20-%20John%20Resig%2C%20Bear%20Bibeault%20and%20Josip%20Maras.pdf)
 * [The Principles of Object-Oriented JavaScript - Nicholas C. Zakas](https://github.com/petyakostova/IT-Books/blob/master/JavaScript/The%20Principles%20of%20Object-Oriented%20JavaScript%20-%20Nicholas%20C.%20Zakas.pdf)
 * [за начинаещи_ Основи на програмирането с JavaScript - Светлин Наков и колектив, май 2018, Iво издание](https://github.com/petyakostova/IT-Books/blob/master/JavaScript/%D0%B7%D0%B0%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%B5%D1%89%D0%B8_%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5%D1%82%D0%BE%20%D1%81%20JavaScript%20-%20%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD%20%D0%9D%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%BA%D0%BE%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%2C%20%D0%BC%D0%B0%D0%B9%202018%2C%20I%D0%B2%D0%BE%20%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
+* [Detailed list of free JavaScript books](https://jsbooks.revolunet.com/)
+
+## Node.js
+
+* [The Node Beginner Book](https://www.nodebeginner.org/)
+* [Mastering Node.js](https://github.com/visionmedia/masteringnode)
+* [Node.js in Action](https://www.manning.com/books/node-js-in-action)
+* [Mixu's Node Book](http://book.mixu.net/node/index.html)
 
 ## Programming
 
